@@ -58,7 +58,7 @@ Project Mgmt      : Scrum | PMI | JIRA | Confluence
 
 ---
 
-## Espanol
+## Español
 
 ### Sobre Mi
 
