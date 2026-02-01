@@ -1,106 +1,125 @@
-# Daniel Rincon
+# Daniel Cabrera Rincon
 
-**Software Developer** | SAP Enterprise | Python | Go | Game Dev | Cybersecurity
+<div align="center">
 
-[![Colombia-IA](https://img.shields.io/badge/Member-Colombia--IA-00A651?style=flat&logo=github&logoColor=white)](https://github.com/Colombia-IA)
+**SAP ABAP Consultant | Software Engineer | Agile Project Leader**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--cabrera--ia-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/daniel-cabrera-ia)
+[![GitHub](https://img.shields.io/badge/GitHub-DanielCRincon-181717?style=flat-square&logo=github)](https://github.com/DanielCRincon)
+[![Edge Labs Dev](https://img.shields.io/badge/Edge%20Labs%20Dev-edgelabsdev.com-green?style=flat-square)](https://edgelabsdev.com/)
+[![Colombia-IA](https://img.shields.io/badge/Colombia--IA-colombia--ia.github.io-orange?style=flat-square)](https://colombia-ia.github.io/)
+
+</div>
 
 ---
+
+## English
 
 ### About Me
 
-Developer with experience in **enterprise solutions**, **game development**, and a passion for **security and automation**. I work across multiple domains: from SAP enterprise systems to Unity game development, modern web applications, AI/ML projects, and security tooling.
+Software Engineer and Industrial Engineer with extensive experience in SAP and agile project management. Specialized in ABAP development for FI, SD, MM, and HR modules, implementing customizations through enhancements, user exits, and BAPIs. Expert in SmartForms design, HRFORM, infotype management, Z tables, and system integration with RFC, Web Services, and SAP PI.
 
-Member of **[Colombia-IA](https://github.com/Colombia-IA)** - an organization focused on democratizing AI with open-source tools and social impact solutions for Colombia.
+I complement my technical profile with Scrum team leadership skills, stakeholder management, and alignment of technical efforts with business objectives. Founder of **Colombia-IA**, an initiative that aims to democratize artificial intelligence through open-source tools.
 
----
+### Technical Skills
 
-### Tech Stack
-
-**Enterprise & SAP**
-
-![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![SAP Fiori](https://img.shields.io/badge/Fiori-0FAAFF?style=flat&logo=sap&logoColor=white)
-![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=flat&logo=sap&logoColor=white)
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-**Game Development**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-
-**Backend & Data**
-
-![SQLModel](https://img.shields.io/badge/SQLModel-009688?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**Security & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
+```
+SAP & ABAP        : FI, SD, MM, HR, PM | BAPIs | User Exits | Enhancements | SmartForms | ALV
+Integration       : RFC | Web Services | SAP PI | SOA Manager
+Development       : JavaScript | Python | Go | C# | SAP Fiori | SAPUI5 | Web Dynpro
+Tools             : SE80 | STMS | ST22 | ST05 | Code Inspector | Git | Docker | Linux
+Project Mgmt      : Scrum | PMI | JIRA | Confluence
+```
 
 ### Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **SurvivalArena** | 2D survival arena game with enemy AI, wave spawning, and combat systems | Unity, C# |
-| [security-portfolio](https://github.com/DanielCRincon/security-portfolio) | Writeups, labs and scripts for cybersecurity practice | Security |
-| [Inteligencia_Artificial](https://github.com/DanielCRincon/Inteligencia_Artificial) | AI and Machine Learning projects | Python |
-| [MasterSAPUI5DCR](https://github.com/DanielCRincon/MasterSAPUI5DCR) | SAPUI5 development repository | JavaScript |
+| Project | Description |
+|---------|-------------|
+| [Colombia-IA](https://colombia-ia.github.io/) | Open-source initiative democratizing AI in Colombia with frugal, high-impact tools |
+| [Edge Labs Dev](https://edgelabsdev.com/) | Automation & AI development platform |
+| SurvivalArena | 2D game with AI opponents and combat mechanics |
+| Security-Portfolio | Cybersecurity exercises and documentation |
 
-**Web Development Projects**
+### Education & Certifications
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [JuegoBateria](https://github.com/DanielCRincon/JuegoBateria) | Interactive audio web page | JavaScript |
-| [WaetherProject](https://github.com/DanielCRincon/WaetherProject) | Weather app with external API integration | JavaScript |
-| [JuegoMemoria](https://github.com/DanielCRincon/JuegoMemoria) | Memory game | JavaScript, HTML |
-| [ListaDeTareas](https://github.com/DanielCRincon/ListaDeTareas) | Task list with server connection | JavaScript, Node.js |
-| [TiendaVideoJuegos](https://github.com/DanielCRincon/TiendaVideoJuegos) | Video game store frontend | HTML, CSS |
-
----
-
-### Organizations
-
-[![Colombia-IA](https://img.shields.io/badge/Colombia--IA-Democratizing_AI_in_Colombia-00A651?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Colombia-IA)
-
-> Open digital infrastructure for Colombia. Democratizing AI with free, frugal, and socially impactful tools.
-
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielCRincon&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCRincon&layout=compact&theme=dark&hide_border=true)
-
----
+- **B.S. Software Engineering** - Politecnico GranColombiano (2022)
+- **B.S. Industrial Engineering** - Escuela Colombiana de Ingenieria (2006)
+- Scrum Master Professional (SMPC) - CertiProf
+- Scrum Product Owner Professional (SPOPC) - CertiProf
+- Agile Coach Professional (ACPC) - CertiProf
+- IBM Machine Learning Foundations
 
 ### Currently Learning
 
-- Game Development with Unity (2D/3D)
-- Advanced Go for security tooling
-- AI/ML applications with Python
-- Cloud security and DevSecOps
-- Backend development with SQLModel & FastAPI
+- Advanced SAP HANA Development
+- Cloud-based ABAP
+- AI/ML Applications for Enterprise
+- Go-based Security Tools
 
 ---
 
-<p align="center">
-  <i>Open to collaboration on security, automation, game development, and AI projects</i>
-</p>
+## Espanol
 
-<p align="center">
-  <a href="https://github.com/Colombia-IA">
-    <img src="https://img.shields.io/badge/Colombia--IA-Open_Source_AI-00A651?style=flat-square&logo=github" alt="Colombia-IA"/>
-  </a>
-</p>
+### Sobre Mi
+
+Ingeniero de Software e Ingeniero Industrial con amplia experiencia en SAP y direccion de proyectos bajo metodologias agiles. Especializado en desarrollo ABAP para modulos FI, SD, MM y HR, implementando personalizaciones mediante enhancements, user exits y BAPIs. Experto en diseno de SmartForms, HRFORM, gestion de infotipos, tablas Z e integracion de sistemas con RFC, Web Services y SAP PI.
+
+Complemento mi perfil tecnico con habilidades de liderazgo en equipos Scrum, gestion de stakeholders y alineacion de esfuerzos tecnicos con objetivos de negocio. Fundador de **Colombia-IA**, iniciativa que busca democratizar la inteligencia artificial a traves de herramientas de codigo abierto.
+
+### Habilidades Tecnicas
+
+```
+SAP & ABAP        : FI, SD, MM, HR, PM | BAPIs | User Exits | Enhancements | SmartForms | ALV
+Integracion       : RFC | Web Services | SAP PI | SOA Manager
+Desarrollo        : JavaScript | Python | Go | C# | SAP Fiori | SAPUI5 | Web Dynpro
+Herramientas      : SE80 | STMS | ST22 | ST05 | Code Inspector | Git | Docker | Linux
+Gestion Proyectos : Scrum | PMI | JIRA | Confluence
+```
+
+### Proyectos Destacados
+
+| Proyecto | Descripcion |
+|----------|-------------|
+| [Colombia-IA](https://colombia-ia.github.io/) | Iniciativa open-source democratizando la IA en Colombia con herramientas frugales y de alto impacto |
+| [Edge Labs Dev](https://edgelabsdev.com/) | Plataforma de desarrollo en Automatizacion e IA |
+| SurvivalArena | Juego 2D con oponentes IA y mecanicas de combate |
+| Security-Portfolio | Ejercicios y documentacion de ciberseguridad |
+
+### Educacion y Certificaciones
+
+- **Ingeniero de Software** - Politecnico GranColombiano (2022)
+- **Ingeniero Industrial** - Escuela Colombiana de Ingenieria (2006)
+- Scrum Master Professional (SMPC) - CertiProf
+- Scrum Product Owner Professional (SPOPC) - CertiProf
+- Agile Coach Professional (ACPC) - CertiProf
+- IBM Machine Learning Foundations
+
+### Actualmente Aprendiendo
+
+- Desarrollo Avanzado en SAP HANA
+- ABAP en la Nube
+- Aplicaciones AI/ML para Empresas
+- Herramientas de Seguridad en Go
+
+---
+
+<div align="center">
+
+### Contact / Contacto
+
+**Email:** danielcabrerarincon@gmail.com | **Phone:** +57 322 253 9049
+
+**Location / Ubicacion:** Bogota, Colombia
+
+[![Edge Labs Dev](https://img.shields.io/badge/Visit-Edge%20Labs%20Dev-green?style=for-the-badge)](https://edgelabsdev.com/)
+[![Colombia-IA](https://img.shields.io/badge/Visit-Colombia--IA-orange?style=for-the-badge)](https://colombia-ia.github.io/)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielCRincon&show_icons=true&theme=default)
+
+</div>
