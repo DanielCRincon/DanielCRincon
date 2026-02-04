@@ -16,7 +16,7 @@
 
 **EN:** Software & Industrial Engineer with a hybrid technical profile. I combine **+13 years** of SAP ABAP expertise with modern Full Stack development skills. Founder of Colombia-IA, an open-source initiative to democratize AI.
 
-**ES:** Ingeniero de Software e Industrial con perfil tecnico hibrido. Combino **+13 anos** de experiencia en SAP ABAP con habilidades modernas de desarrollo Full Stack. Fundador de Colombia-IA, iniciativa open-source para democratizar la IA.
+**ES:** Ingeniero de Software e Industrial con perfil técnico híbrido. Combino **+13 años** de experiencia en SAP ABAP con habilidades modernas de desarrollo Full Stack. Fundador de Colombia-IA, iniciativa open-source para democratizar la IA.
 
 ---
 
@@ -57,7 +57,7 @@
 ## Education | Educacion
 
 - **Software Engineer / Ingeniero de Software** - Politecnico GranColombiano (2022)
-- **Industrial Engineer / Ingeniero Industrial** - Escuela Colombiana de Ingenieria (2006)
+- **Industrial Engineer / Ingeniero Industrial** - Escuela Colombiana de Ingeniería (2006)
 
 ---
 
@@ -76,6 +76,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-danielcrincon.github.io-64FFDA?style=for-the-badge&logo=github&logoColor=0A192F)](https://danielcrincon.github.io)
 
-**Bogota, Colombia** | **+57 322 253 9049** | **danielcabrerarincon@gmail.com**
+**Bogotá, Colombia** | **+57 322 253 9049** | **danielcabrerarincon@gmail.com**
 
 </div>
