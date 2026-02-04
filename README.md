@@ -117,9 +117,3 @@ Gestión Proyectos : Scrum | PMI | JIRA | Confluence
 </div>
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielCRincon&show_icons=true&theme=default)
-
-</div>
