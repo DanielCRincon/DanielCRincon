@@ -1,119 +1,101 @@
+<div align="center">
+
 # Daniel Cabrera Rincon
 
+### SAP ABAP Consultant | Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=13%2B+years+of+experience;SAP+ABAP+%7C+FI+%7C+SD+%7C+MM+%7C+HR;Full+Stack+%7C+Go+%7C+PostgreSQL+%7C+Docker;Scrum+Master+%7C+Agile+Coach" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-danielcrincon.github.io-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA)](https://danielcrincon.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--cabrera--ia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-cabrera-ia)
+[![Email](https://img.shields.io/badge/Email-danielcabrerarincon-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcabrerarincon@gmail.com)
+
+</div>
+
+---
+
+## About Me | Sobre Mi
+
+Software & Industrial Engineer with a **hybrid technical profile**. I combine **+13 years** of SAP ABAP expertise with modern Full Stack development skills.
+
+Ingeniero de Software e Industrial con **perfil tecnico hibrido**. Combino **+13 anos** de experiencia en SAP ABAP con habilidades modernas de desarrollo Full Stack.
+
 <div align="center">
 
-**SAP ABAP Consultant | Software Engineer | Agile Project Leader**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--cabrera--ia-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/daniel-cabrera-ia)
-[![GitHub](https://img.shields.io/badge/GitHub-DanielCRincon-181717?style=flat-square&logo=github)](https://github.com/DanielCRincon)
-[![Edge Labs Dev](https://img.shields.io/badge/Edge%20Labs%20Dev-edgelabsdev.com-green?style=flat-square)](https://edgelabsdev.com/)
-[![Colombia-IA](https://img.shields.io/badge/Colombia--IA-colombia--ia.github.io-orange?style=flat-square)](https://colombia-ia.github.io/)
+| | |
+|---|---|
+| **SAP ABAP** | FI, SD, MM, HR, PM, BAPIs, Enhancements, SmartForms, OData |
+| **Full Stack** | Go, JavaScript, Python, REST APIs, JWT |
+| **Databases** | PostgreSQL, SAP HANA, SQLite |
+| **DevOps** | Docker, Git, Linux |
+| **Agile** | Scrum Master, Product Owner, Agile Coach |
 
 </div>
 
 ---
 
-## English
+## Featured Projects | Proyectos Destacados
 
-### About Me
+<div align="center">
 
-Software Engineer and Industrial Engineer with extensive experience in SAP and agile project management. Specialized in ABAP development for FI, SD, MM, and HR modules, implementing customizations through enhancements, user exits, and BAPIs. Expert in SmartForms design, HRFORM, infotype management, Z tables, and system integration with RFC, Web Services, and SAP PI.
+[![Colombia-IA](https://img.shields.io/badge/Colombia--IA-Open%20Source%20AI-FF6B35?style=for-the-badge&logo=robot&logoColor=white)](https://colombia-ia.github.io/)
+[![Edge Labs Dev](https://img.shields.io/badge/Edge%20Labs%20Dev-Automation%20%26%20AI-00D4AA?style=for-the-badge&logo=serverless&logoColor=white)](https://edgelabsdev.com/)
 
-I complement my technical profile with Scrum team leadership skills, stakeholder management, and alignment of technical efforts with business objectives. Founder of **Colombia-IA**, an initiative that aims to democratize artificial intelligence through open-source tools.
+</div>
 
-### Technical Skills
-
-```
-SAP & ABAP        : FI, SD, MM, HR, PM | BAPIs | User Exits | Enhancements | SmartForms | ALV
-Integration       : RFC | Web Services | SAP PI | SOA Manager
-Development       : JavaScript | Python | Go | C# | SAP Fiori | SAPUI5 | Web Dynpro
-Tools             : SE80 | STMS | ST22 | ST05 | Code Inspector | Git | Docker | Linux
-Project Mgmt      : Scrum | PMI | JIRA | Confluence
-```
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [Colombia-IA](https://colombia-ia.github.io/) | Open-source initiative democratizing AI in Colombia with frugal, high-impact tools |
-| [Edge Labs Dev](https://edgelabsdev.com/) | Automation & AI development platform |
-| SurvivalArena | 2D game with AI opponents and combat mechanics |
-| Security-Portfolio | Cybersecurity exercises and documentation |
-
-### Education & Certifications
-
-- **B.S. Software Engineering** - Politecnico GranColombiano (2022)
-- **B.S. Industrial Engineering** - Escuela Colombiana de Ingenieria (2006)
-- Scrum Master Professional (SMPC) - CertiProf
-- Scrum Product Owner Professional (SPOPC) - CertiProf
-- Agile Coach Professional (ACPC) - CertiProf
-- IBM Machine Learning Foundations
-
-### Currently Learning
-
-- Advanced SAP HANA Development
-- Cloud-based ABAP
-- AI/ML Applications for Enterprise
-- Go-based Security Tools
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Colombia-IA**](https://colombia-ia.github.io/) | Open-source initiative to democratize AI in Colombia | Python, AI/ML |
+| [**Edge Labs Dev**](https://edgelabsdev.com/) | Automation & AI development platform | Go, PostgreSQL, Docker |
+| **SurvivalArena** | 2D game with AI opponents | Unity, C# |
+| **Security-Portfolio** | Cybersecurity exercises & CTF | Python, Security |
 
 ---
 
-## Español
+## Certifications | Certificaciones
 
-### Sobre Mí
+<div align="center">
 
-Ingeniero de Software e Ingeniero Industrial con amplia experiencia en SAP y dirección de proyectos bajo metodologías ágiles. Especializado en desarrollo ABAP para módulos FI, SD, MM y HR, implementando personalizaciones mediante enhancements, user exits y BAPIs. Experto en diseño de SmartForms, HRFORM, gestión de infotipos, tablas Z e integración de sistemas con RFC, Web Services y SAP PI.
+![Scrum Master](https://img.shields.io/badge/Scrum%20Master-SMPC-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
+![Product Owner](https://img.shields.io/badge/Product%20Owner-SPOPC-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
+![Agile Coach](https://img.shields.io/badge/Agile%20Coach-ACPC-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
+![IBM ML](https://img.shields.io/badge/IBM-Machine%20Learning-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![SAP UI5](https://img.shields.io/badge/SAP-UI5-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
-Complemento mi perfil técnico con habilidades de liderazgo en equipos Scrum, gestión de stakeholders y alineación de esfuerzos técnicos con objetivos de negocio. Fundador de **Colombia-IA**, iniciativa que busca democratizar la inteligencia artificial a través de herramientas de código abierto.
+</div>
 
-### Habilidades Técnicas
+---
 
-```
-SAP & ABAP        : FI, SD, MM, HR, PM | BAPIs | User Exits | Enhancements | SmartForms | ALV
-Integración       : RFC | Web Services | SAP PI | SOA Manager
-Desarrollo        : JavaScript | Python | Go | C# | SAP Fiori | SAPUI5 | Web Dynpro
-Herramientas      : SE80 | STMS | ST22 | ST05 | Code Inspector | Git | Docker | Linux
-Gestión Proyectos : Scrum | PMI | JIRA | Confluence
-```
+## GitHub Stats
 
-### Proyectos Destacados
+<div align="center">
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [Colombia-IA](https://colombia-ia.github.io/) | Iniciativa open-source democratizando la IA en Colombia con herramientas frugales y de alto impacto |
-| [Edge Labs Dev](https://edgelabsdev.com/) | Plataforma de desarrollo en Automatización e IA |
-| SurvivalArena | Juego 2D con oponentes IA y mecánicas de combate |
-| Security-Portfolio | Ejercicios y documentación de ciberseguridad |
+<img src="https://github-readme-stats.vercel.app/api?username=DanielCRincon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCRincon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6" alt="Top Languages" height="165"/>
 
-### Educación y Certificaciones
+</div>
 
-- **Ingeniero de Software** - Politécnico GranColombiano (2022)
-- **Ingeniero Industrial** - Escuela Colombiana de Ingeniería (2006)
-- Scrum Master Professional (SMPC) - CertiProf
-- Scrum Product Owner Professional (SPOPC) - CertiProf
-- Agile Coach Professional (ACPC) - CertiProf
-- IBM Machine Learning Foundations
+---
 
-### Actualmente Aprendiendo
+## Currently Working On | Actualmente
 
-- Desarrollo Avanzado en SAP HANA
-- ABAP en la Nube
-- Aplicaciones AI/ML para Empresas
-- Herramientas de Seguridad en Go
+- Building enterprise solutions with **Go + PostgreSQL + Docker**
+- Expanding **SAP ABAP Cloud** skills
+- Contributing to **Colombia-IA** open-source community
+- Developing AI-powered automation tools
 
 ---
 
 <div align="center">
 
-### Contact / Contacto
+### View my full CV | Ver mi CV completo
 
-**Email:** danielcabrerarincon@gmail.com | **Phone:** +57 322 253 9049
-
-**Location / Ubicación:** Bogotá, Colombia
-
-[![Edge Labs Dev](https://img.shields.io/badge/Visit-Edge%20Labs%20Dev-green?style=for-the-badge)](https://edgelabsdev.com/)
-[![Colombia-IA](https://img.shields.io/badge/Visit-Colombia--IA-orange?style=for-the-badge)](https://colombia-ia.github.io/)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-danielcrincon.github.io-64FFDA?style=for-the-badge&logo=github&logoColor=0A192F)](https://danielcrincon.github.io)
 
 ---
+
+**Bogota, Colombia** | **+57 322 253 9049**
+
+<img src="https://komarev.com/ghpvc/?username=DanielCRincon&color=64FFDA&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+</div>
